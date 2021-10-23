@@ -1,20 +1,19 @@
-# IP-Project
-My personal landing page
-# Landing Page
-#### A landing page with my personal details including details about my education, previous projects, hobbies etc.,  10/10/2021
-#### By Chang Gatere
-## Description
-This is a detailed landing page including  details of my educational background, hobbies, previous projects with their links.
-## Setup/Installation Requirements
-* HTML
-* CSS
-## Known Bugs
-Possibly the bootstrap link on the html page.
+# Independent Project One
+
+### Description
+This website is my own personal landing page, giving you information about myself. This page contains details about my education, hobbies and interests as well
+as my own personal first project that I made. 
+
+### Live link
+https://chang224.github.io/IP-Project/
+
 ## Technologies Used
-* HTML
-* CSS
+* HTMl (Hyper Text Mark Up Language)
+* CSS (Cascading Style Sheet)
+* 
 ## Support and contact details
-Contact:chang.gatere@gmail.com
+Contact: changgatere@gmail.com
+
 ### License
-* MIT Licencing 
+MIT Licening
   
