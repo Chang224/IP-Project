@@ -1,0 +1,25 @@
+h1 {
+    color: navy;
+    text-align:center
+}
+h2 {
+    color: navy
+}
+body {
+    background-color: rgba(128, 128, 128, 0.274)
+} 
+h4 {
+    color: navy
+}
+img {
+    border: 5px solid navy;
+}
+img {
+    float: right;
+}
+h5 {
+    text-align:  right;
+}
+h3 {
+    color: navy
+}
